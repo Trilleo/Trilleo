@@ -6,4 +6,4 @@
 </a> </p>
 🌐・**Website: [https://www.trilleo.net](https://www.trilleo.net)**
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://github.com/Trilleo/Trilleo/blob/output/github-contribution-grid-snake.svg?palette=github" alt="sneke"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://github.com/Trilleo/Trilleo/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="sneke"></a>
